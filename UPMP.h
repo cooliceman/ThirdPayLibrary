@@ -1,2 +1,3 @@
 - (NSString)payerTitle;
 - (void)startPay;
+- (NSString)payerName;
